@@ -69,7 +69,7 @@ Operational analysis page focused on identifying root causes behind supply chain
 
 ### KPIs Included
 
-* OTF %
+* OTIF %
 * Stockout %
 * Return Rate %
 * Quality Issue Rate %
@@ -143,7 +143,7 @@ Analytical exploration page focused on optimization opportunities.
 
 * Revenue
 * Gross Profit
-* OTF %
+* OTIF %
 * Stockout %
 * Return Rate %
 * Quality Issue Rate %
